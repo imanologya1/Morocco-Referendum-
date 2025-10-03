@@ -1,0 +1,21 @@
+{
+  "54703b92-0747-426e-8286-1c72a653ec4a": {
+    "poll_id": "54703b92-0747-426e-8286-1c72a653ec4a",
+    "title": "Morocco Infrastructure Development Vote",
+    "question": "Should Morocco invest in high-speed rail infrastructure?",
+    "options": [
+      "Yes, invest in high-speed rail",
+      "No, focus on other priorities",
+      "Need more information to decide"
+    ],
+    "creator": "anonymous",
+    "duration_hours": 24,
+    "language": "ar",
+    "created_at": 1759527632.110085,
+    "closes_at": 1759614032.110085,
+    "status": "active",
+    "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqSr0W0nYuo1/jqcGHsSV\n13tgZhSwiVUhl89EfU/kyXuPvLZESG60sLV1mfy++Suy1qIEWbb0HatnSlrmNjBa\nGOu98+C3XG3HM6sB+AimqbONqiXHEeMCIsVNdrPeNE34Dify+H7CypdC29FUBBi0\nPWGDHfJ4rJU/fHAh/Pc3A5qUiSDZjXJHLBEWd7dj2CnLoldOTqW6gOWT2hqFlB2p\ndTBrZzzCb4OOsFg6xBEnLYtuZk/rp7y+lk2ioTzBjDa6QqqS3BiHivjlwUJYdRN0\nnt2nZAMT0K60+3hnGhKpkQUMnBdnZIjkYojN8CXkUUBE2q3jAKrN0ruJCUzhHPbf\nvwIDAQAB\n-----END PUBLIC KEY-----",
+    "private_key": "",
+    "results": null
+  }
+}
